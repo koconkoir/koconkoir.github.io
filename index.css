@@ -1,0 +1,77 @@
+.IndieFlower{
+	font-family: 'Indie Flower', cursive;
+}
+.JosefinSans{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.Lobster{
+	font-family: 'Lobster', cursive;
+}
+.Pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.ShadowsIntoLight{
+	font-family: 'Shadows Into Light', cursive;
+}
+.AbrilFatface{
+	font-family: 'Abril Fatface', cursive;
+}
+.Charm{
+	font-family: 'Charm', cursive;	
+}
+.Domine{
+	font-family: 'Domine', serif;
+}
+.font20{
+	font-size: 20px;
+}
+.font30{
+	font-size: 30px;
+}
+.font40{
+	font-size: 40px;
+}
+.img100 {
+   width: auto;
+   max-height: 100%;
+}
+.img40 {
+   width: auto;
+   max-height: 40%;
+}
+
+.image {
+  display: block;	
+  width: 100%;
+  height: auto;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #B34700;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+#child{
+  opacity:1;
+}
+
