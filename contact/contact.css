@@ -1,0 +1,64 @@
+.map-container-3{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-3 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.IndieFlower{
+	font-family: 'Indie Flower', cursive;
+}
+.JosefinSans{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.Lobster{
+	font-family: 'Lobster', cursive;
+}
+.Pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.ShadowsIntoLight{
+	font-family: 'Shadows Into Light', cursive;
+}
+.AbrilFatface{
+	font-family: 'Abril Fatface', cursive;
+}
+.Charm{
+	font-family: 'Charm', cursive;	
+}
+.Domine{
+	font-family: 'Domine', serif;
+}
+.font20{
+	font-size: 20px;
+}
+.font30{
+	font-size: 30px;
+}
+.font40{
+	font-size: 40px;
+}
+.img100 {
+   width: auto;
+   max-height: 100%;
+}
+.img40 {
+   width: auto;
+   max-height: 40%;
+}
+
+#contact{
+	padding: 2% 10%;
+	margin: 3% 30%;  
+	text-align: center;
+	background-color: white;
+	box-shadow: 3px 4px 4px 4px #A9A9A9;
+
+}
